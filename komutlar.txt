@@ -1,1 +1,11 @@
 npx react-native init MyApp --template react-native-template-typescript
+
+repo:
+https://github.com/mehmetceliko/Sozluk.git
+
+add remote repo for git
+git remote   add origin https://github.com/mehmetceliko/Sozluk.git                                        
+
+
+npm install mongodb 
+node demo_create_mongo_db.js 
